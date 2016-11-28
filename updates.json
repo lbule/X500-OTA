@@ -4,8 +4,8 @@
     {
       "filename" : "test.zip",
       "url" : "https://github.com/lbule/X500-OTA/releases/download/test/test.zip",
-      "changes" : "",
-      "md5sum" : "",
+      "changes" : "https://raw.githubusercontent.com/lbule/X500-OTA/cm-13.0/Changeslog",
+      "md5sum" : "651607d6dfaf31d28a58c00a8bd7c29e",
       "api_level" : "23",
       "timestamp" : "1480334078",
       "channel" : "test",
