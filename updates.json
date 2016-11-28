@@ -2,13 +2,13 @@
 "result" :
   [
     {
-      "filename" : "",
-      "url" : "",
+      "filename" : "test.zip",
+      "url" : "https://github.com/lbule/X500-OTA/releases/download/test/test.zip",
       "changes" : "",
       "md5sum" : "",
       "api_level" : "23",
-      "timestamp" : "",
-      "channel" : "release",
+      "timestamp" : "1480334078",
+      "channel" : "test",
       "incremental" : ""
     }
   ]
