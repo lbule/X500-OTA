@@ -2,12 +2,12 @@
 "result" :
   [
     {
-      "filename" : "cm-14.1-20161123-UNOFFICIAL-v0.2-meilan2.zip",
-      "url" : " ",
-      "changes" : " ",
-      "md5sum" : " ",
+      "filename" : "",
+      "url" : "",
+      "changes" : "",
+      "md5sum" : "",
       "api_level" : "23",
-      "timestamp" : " ",
+      "timestamp" : "",
       "channel" : "release",
       "incremental" : ""
     }
