@@ -1,1 +1,1 @@
-# Letv-X500 Rom OTA Server
+# Xiaomi Hermes Rom OTA Server
