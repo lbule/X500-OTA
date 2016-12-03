@@ -1,0 +1,15 @@
+{
+"result" :
+  [
+    {
+      "filename" : "test11.zip",
+      "url" : "https://github.com/lbule/cm-ota/releases/download/test/test.zip",
+      "changes" : "https://raw.githubusercontent.com/lbule/cm-ota/cm-13.0/Changeslog",
+      "md5sum" : "651607d6dfaf31d28a58c00a8bd7c29e",
+      "api_level" : "23",
+      "timestamp" : "1480691080",
+      "channel" : "NIGHTLY",
+      "incremental" : ""
+    }
+  ]
+},
